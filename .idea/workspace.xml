@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e90c274-a157-45fe-8a62-4e1d8fd5f0ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/base_test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/pages/AddProductModal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/pages/GoodsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/pages/SandBoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests/SandBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ibs/tests_no_page_object/TestSandBox_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pZefXsMSTpVnR2Taz3v19BufVE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SandBoxTest.AddingExistingProduct.executor": "Run",
+    "JUnit.SandBoxTest.executor": "Run",
+    "JUnit.SandBox_2.AddingExistingProduct.executor": "Run",
+    "JUnit.SandBox_2.executor": "Run",
+    "JUnit.Sandbox.AddingExistingProduct.executor": "Run",
+    "JUnit.Sandbox.deleteProduct.executor": "Run",
+    "JUnit.Sandbox.executor": "Run",
+    "JUnit.Sandbox.testVegetableAdd.executor": "Run",
+    "JUnit.TestSandBox_2.AddingExistingProduct.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Vladimir/IdeaProjects/ibs_practical_four/src/test/java/com/ibs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladimir\IdeaProjects\ibs_practical_four\src\test\java\com\ibs" />
+      <recent name="C:\Users\Vladimir\IdeaProjects\ibs_practical_four\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ibs.base_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SandBoxTest">
+    <configuration name="SandBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ibs_practical_four" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibs.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibs.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ibs.tests.SandBoxTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SandBoxTest.AddingExistingProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ibs_practical_four" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibs.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibs.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ibs.tests.SandBoxTest" />
+      <option name="METHOD_NAME" value="AddingExistingProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sandbox.deleteProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ibs_practical_four" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibs.tests_no_page_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibs.tests_no_page_object" />
+      <option name="MAIN_CLASS_NAME" value="com.ibs.tests_no_page_object.Sandbox" />
+      <option name="METHOD_NAME" value="deleteProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSandBox_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ibs_practical_four" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibs.tests_no_page_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibs.tests_no_page_object" />
+      <option name="MAIN_CLASS_NAME" value="com.ibs.tests_no_page_object.TestSandBox_2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSandBox_2.AddingExistingProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ibs_practical_four" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibs.tests_no_page_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibs.tests_no_page_object" />
+      <option name="MAIN_CLASS_NAME" value="com.ibs.tests_no_page_object.TestSandBox_2" />
+      <option name="METHOD_NAME" value="AddingExistingProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SandBoxTest" />
+        <item itemvalue="JUnit.TestSandBox_2.AddingExistingProduct" />
+        <item itemvalue="JUnit.TestSandBox_2" />
+        <item itemvalue="JUnit.SandBoxTest.AddingExistingProduct" />
+        <item itemvalue="JUnit.Sandbox.deleteProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e90c274-a157-45fe-8a62-4e1d8fd5f0ff" name="Changes" comment="" />
+      <created>1732978130019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732978130019</updated>
+    </task>
+    <servers />
+  </component>
+</project>
